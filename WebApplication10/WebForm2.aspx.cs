@@ -17,7 +17,7 @@ namespace WebApplication10
         protected void Button1_Click(object sender, EventArgs e)
         {
             
-            Response.Redirect("WebForm3.aspx");
+           
         }
 
         protected void Button2_Click(object sender, EventArgs e)
